@@ -1,5 +1,7 @@
 # Before we start
 This guide is extremely simplified and short as possible. Rather than adding new content, I will try to trim unnecessary parts.
+CTRL+Left Click to open link in a new tab.(Marked blue.)
+
 ## A few downloads: 
 [Qbittorrent](https://www.fosshub.com/qBittorrent.html) This is what we are going to use to download our files. Subjectively the best. If you don't like it, Google away! Just search "Torrent clients" You will surely find a one you like.
 
