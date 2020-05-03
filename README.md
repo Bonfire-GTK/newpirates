@@ -12,7 +12,9 @@ CTRL+Left Click to open link in a new tab.(Marked blue.)
 ## Donwloading Games With Torrent
 I am downloading "Doom Eternal" using [fitgirl-repacks.site](https://fitgirl-repacks.site/). 
 
-Click the search icon at the top right and search the game you want. Click the game you want to download, Under the "Download Mirrors" section click the first "[magnet]" and then "Open Qbittorent". When you get to Qbittorent press "OK" and you will start downloading!
+Click the search icon at the top right and search the game you want. Click the game you want to download. 
+
+Under the "Download Mirrors" section click the first "[magnet]" and then "Open Qbittorent". When you get to Qbittorent press "OK" and you will start downloading!
 
 When the download finishes, rigth click on the torrent and select "Open Destination Folder". Click on "Setup.exe" and install. Let it finish and you are done!
 
