@@ -1,5 +1,8 @@
-# Before we start
-This guide is extremely simplified and short as possible. Rather than adding new content, I will try to trim unnecessary parts.
+# Using Torrent for Beginners
+
+## Before we start
+This guide is extremely simplified and short as possible.
+
 CTRL+Left Click to open link in a new tab.(Marked blue.)
 
 ## A few downloads: 
