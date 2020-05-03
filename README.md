@@ -3,12 +3,10 @@
 ## Before we start
 This guide is extremely simplified and short as possible.
 
-CTRL+Left Click to open link (colored blue) in a new tab.
+CTRL+Left Click to open a link in a new tab. (colored blue)
 
 ## A few downloads: 
 [Qbittorrent](https://www.fosshub.com/qBittorrent.html) This is what we are going to use to download our files. Subjectively the best. If you don't like it, Google away! Just search "Torrent clients" You will surely find a one you like.
-
-[7zip](https://www.7-zip.org/download.html) A program that is used to compress and uncompress files.
 
 [Ublock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) Any ad blocker you can gets your hands on. Here is one I use for Chrome.
 
