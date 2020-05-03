@@ -3,7 +3,7 @@
 ## Before we start
 This guide is extremely simplified and short as possible.
 
-CTRL+Left Click to open link in a new tab.(Marked blue.)
+CTRL+Left Click to open link (colored blue) in a new tab.
 
 ## A few downloads: 
 [Qbittorrent](https://www.fosshub.com/qBittorrent.html) This is what we are going to use to download our files. Subjectively the best. If you don't like it, Google away! Just search "Torrent clients" You will surely find a one you like.
