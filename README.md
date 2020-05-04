@@ -4,7 +4,7 @@ This guide is extremely simplified.
 ## CTRL+Left Click to open a link in a new tab. (colored blue)
 
 ## A few downloads: 
-[qBittorrent](https://www.qbittorrent.org/download.php) This is what we are going to use to download our files. Subjectively the best torrent client.
+[qBittorrent](https://www.fosshub.com/qBittorrent.html) This is what we are going to use to download our files. Subjectively the best torrent client.
 
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) Any ad blocker you can get your hands on. uBlock Origin is subjectively the best. [(Firefox Link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
