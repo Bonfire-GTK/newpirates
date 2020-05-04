@@ -26,6 +26,6 @@ I want to download Season 4 Episode 7. So I am going to type: Better Call Saul S
 
 If it was Season 3 Episode 2 for example it would be: Better Call Saul S03E02
 
-Now it will list many results depending on the search. You need to select your video quality.(2016p,1080p,720p). Also look at the green and red numbers on the rigth side of the results name. If the red number is close or higher than the green number don't download that torrent. Click on the one you want to download. Click "Magnet Download" marked Green. then "Open Qbittorent". When you get to Qbittorent press "OK" and you will start downloading!
+Now it will list many results depending on the search. You need to select your video quality.(2160p,1080p,720p). Also look at the green and red numbers on the right side of the results. If the red number is close or higher than the green number don't download that torrent, because it will download slowly. Click on the one you want to download. Click "Magnet Download" marked Green, then "Open Qbittorent". When you get to Qbittorent press "OK" and it will start downloading!
 
-When the download finishes, rigth click on the torrent and select "Open Destination Folder". Click on the video file. Enjoy!
+When the download finishes, right click on the torrent and select "Open Destination Folder". Click on the video file. Enjoy!
