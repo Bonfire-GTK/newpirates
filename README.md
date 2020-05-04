@@ -1,9 +1,7 @@
 # Using Torrent for Beginners
+This guide is extremely simplified.
 
-## Before we start
-This guide is extremely simplified and short as possible.
-
-CTRL+Left Click to open a link in a new tab. (colored blue)
+## CTRL+Left Click to open a link in a new tab. (colored blue)
 
 ## A few downloads: 
 [Qbittorrent](https://www.fosshub.com/qBittorrent.html) This is what we are going to use to download our files. Subjectively the best. 
