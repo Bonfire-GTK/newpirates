@@ -13,7 +13,7 @@ I am downloading "Doom Eternal" using [fitgirl-repacks.site](https://fitgirl-rep
 
 Click the search icon at the top right and search the game you want. Click the game you want to download. 
 
-Under the "Download Mirrors" section click the first "[magnet]" and then "Open qBittorent". When you get to qBittorent press "OK" and you will start downloading!
+Under the "Download Mirrors" section click the first "[magnet]" and then "Open qBittorrent". When you get to qBittorrent press "OK" and you will start downloading!
 
 When the download finishes, right click on the torrent and select "Open Destination Folder". Click on "Setup.exe" and install. Let it finish and you are done!
 
@@ -24,6 +24,6 @@ I want to download Season 4 Episode 7, so I am going to type: Better Call Saul S
 
 If it was Season 3 Episode 2 for example it would be: Better Call Saul S03E02
 
-Now it will list many results depending on the search. Here, you need to select your video quality (2160p, 1080p, 720p). Also look at the green and red numbers on the right side of the results. If the red number is close or higher than the green number don't download that torrent, because it will download slowly. Click on the one you want to download. Click "Magnet Download" marked Green, then "Open qBittorent". When you get to qBittorent press "OK" and it will start downloading!
+Now it will list many results depending on the search. Here, you need to select your video quality (2160p, 1080p, 720p). Also look at the green and red numbers on the right side of the results. If the red number is close or higher than the green number don't download that torrent, because it will download slowly. Click on the one you want to download. Click "Magnet Download" marked Green, then "Open qBittorrent". When you get to qBittorrent press "OK" and it will start downloading!
 
 When the download finishes, right click on the torrent and select "Open Destination Folder". Click on the video file. Enjoy!
