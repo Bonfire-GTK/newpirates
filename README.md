@@ -1,6 +1,6 @@
 # Torrenting for Beginners
-This guide is extremely simplified.
 
+## If you are in the USA you must use a VPN
 ## CTRL+Left Click to open a link in a new tab. (colored blue)
 
 ## A few downloads: 
